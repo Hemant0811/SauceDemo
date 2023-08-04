@@ -10,6 +10,9 @@ public class AuhenticationPopup {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://admin:admin@the-internet.herokuapp.com/basic_auth");
 		
+		
+		// driver. webElement
+		
 	}
 	
 
